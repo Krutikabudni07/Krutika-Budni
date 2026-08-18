@@ -1,34 +1,19 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Krutikabudni07&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
-<h1 align="center">Krutika Revanasiddappa Budni</h1>
-
-<hr>
-
-<h3 align="center">
-  CSE '27 @ HKBK | VTU | AI & ML Enthusiast | Python Developer
-</h3>
-
-<p align="center">
   <a href="https://github.com/Krutikabudni07">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Krutika_Budni07/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/krutika-budni-23156a328/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:budnikrutika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=CSE+Student+%40+HKBK;Python+Developer;AI+%26+ML+Enthusiast;Agentic+AI+Enthusiast;Computer+Vision+Enthusiast;Problem+Solver" />
-</p>
-
-<hr>
+---
 
 ## 🚀 About Me
 
@@ -125,12 +110,6 @@ Computer vision and machine learning system for detecting diseases from corn roo
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/u/Krutika_Budni07/">
-    <img src="https://img.shields.io/badge/View_My-LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-</p>
-
 ### 🎯 My DSA Focus
 
 * Arrays
@@ -196,24 +175,6 @@ Computer vision and machine learning system for detecting diseases from corn roo
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Krutikabudni07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Krutikabudni07">
-    <img src="https://skillicons.dev/icons?i=github" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Krutika_Budni07/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="45"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/krutika-budni-23156a328/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-  </a>
 </p>
 
 ---
