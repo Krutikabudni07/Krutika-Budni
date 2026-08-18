@@ -1,23 +1,19 @@
-<h1 align="center">👋 Hi, I'm Krutika Revanasiddappa Budni</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=CSE+Student+%40+HKBK;Python+Developer;AI+%26+ML+Enthusiast;Agentic+AI+Enthusiast;Computer+Vision+Enthusiast;Problem+Solver" />
-</p>
-
-<p align="center">
-  <a>
+  <a href="https://github.com/Krutikabudni07">
     <img src="https://img.shields.io/badge/GitHub-Krutikabudni07-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a>
+  <a href="https://leetcode.com/u/Krutika_Budni07/">
     <img src="https://img.shields.io/badge/LeetCode-Krutika_Budni07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a>
+  <a href="https://www.linkedin.com/in/krutika-budni-23156a328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krutika_Budni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:budnikrutika@gmail.com">
     <img src="https://img.shields.io/badge/Email-budnikrutika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p >
-  
+  <a href="tel:+919606262975">
+    <img src="https://img.shields.io/badge/Contact-9606262975-25D366?style=for-the-badge&logo=phone&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -86,7 +82,7 @@
 
 AI-powered research assistant designed to automate literature review and research-support tasks.
 
-**Tech Stack:**  
+**Tech Stack:**
 `Python` `LangChain` `OpenAI API` `Agentic AI`
 
 ---
@@ -95,7 +91,7 @@ AI-powered research assistant designed to automate literature review and researc
 
 Machine learning system for Alzheimer's disease detection using medical biomarker data.
 
-**Tech Stack:**  
+**Tech Stack:**
 `Python` `Scikit-learn` `Pandas` `NumPy`
 
 ---
@@ -104,7 +100,7 @@ Machine learning system for Alzheimer's disease detection using medical biomarke
 
 Computer vision and machine learning system for detecting diseases from corn root images using SVM.
 
-**Tech Stack:**  
+**Tech Stack:**
 `Python` `Machine Learning` `SVM` `Computer Vision`
 
 ---
@@ -119,24 +115,24 @@ Computer vision and machine learning system for detecting diseases from corn roo
 
 <p align="center">
   <a href="https://leetcode.com/u/Krutika_Budni07/">
-    <img src="https://img.shields.io/badge/View%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/View_My-LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 ### 🎯 My DSA Focus
 
-- Arrays
-- Strings
-- Hashing
-- Two Pointers
-- Sliding Window
-- Stack & Queue
-- Binary Search
-- Linked List
-- Trees
-- Graphs
-- Recursion
-- Dynamic Programming
+* Arrays
+* Strings
+* Hashing
+* Two Pointers
+* Sliding Window
+* Stack & Queue
+* Binary Search
+* Linked List
+* Trees
+* Graphs
+* Recursion
+* Dynamic Programming
 
 > 🚀 Solving problems consistently and improving my problem-solving skills one question at a time.
 
@@ -148,22 +144,65 @@ Computer vision and machine learning system for detecting diseases from corn roo
 
 🤖 **Artificial Intelligence**
 
-&nbsp; • &nbsp;
+  •  
 
 🧠 **Machine Learning**
 
-&nbsp; • &nbsp;
+  •  
 
 🔗 **Agentic AI**
 
-&nbsp; • &nbsp;
+  •  
 
 💻 **Data Structures & Algorithms**
 
-&nbsp; • &nbsp;
+  •  
 
 👁️ **Computer Vision**
 
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krutikabudni07&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krutikabudni07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krutikabudni07&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krutikabudni07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Krutikabudni07">
+    <img src="https://img.shields.io/badge/GitHub-Krutikabudni07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Krutika_Budni07/">
+    <img src="https://img.shields.io/badge/LeetCode-Krutika_Budni07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/krutika-budni-23156a328/">
+    <img src="https://img.shields.io/badge/LinkedIn-Krutika_Budni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:budnikrutika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-budnikrutika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
