@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Krutikabudni07">
+  <a>
     <img src="https://img.shields.io/badge/GitHub-Krutikabudni07-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Krutika_Budni07/">
+  <a>
     <img src="https://img.shields.io/badge/LeetCode-Krutika_Budni07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="mailto:budnikrutika@gmail.com">
+  <a>
     <img src="https://img.shields.io/badge/Email-budnikrutika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  📞 <b>9606262975</b>
+<p >
+  
 </p>
 
 ---
