@@ -4,6 +4,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=CSE+Student+%40+HKBK;Python+Developer;AI+%26+ML+Enthusiast;Agentic+AI+Enthusiast;Computer+Vision+Enthusiast;Problem+Solver" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/Krutikabudni07">
+    <img src="https://img.shields.io/badge/GitHub-Krutikabudni07-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Krutika_Budni07/">
+    <img src="https://img.shields.io/badge/LeetCode-Krutika_Budni07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+  <a href="mailto:budnikrutika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-budnikrutika%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  📞 <b>9606262975</b>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -96,7 +112,15 @@ Computer vision and machine learning system for detecting diseases from corn roo
 ## 🧩 LeetCode Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/krutikabudni?theme=dark&font=Karma&ext=heatmap" />
+  <a href="https://leetcode.com/u/Krutika_Budni07/">
+    <img src="https://leetcard.jacoblin.cool/Krutika_Budni07?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Krutika_Budni07/">
+    <img src="https://img.shields.io/badge/View%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
 
 ### 🎯 My DSA Focus
