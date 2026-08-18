@@ -57,14 +57,10 @@
   <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer_Vision-00A98F?style=for-the-badge"/>
+
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
+
 
 ### 🧠 Generative AI
 
